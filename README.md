@@ -15,7 +15,4 @@
 运行环境：Windows系统
 编程语言：python语言
 编译器：PyCharm
-
-第三方库
---
-turtle库，random库，PIL库，math库
+第三方库：turtle库，random库，PIL库，math库
